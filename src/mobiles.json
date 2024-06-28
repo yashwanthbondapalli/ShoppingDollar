@@ -1,0 +1,65 @@
+{
+    "mobiles": [
+      {
+        "name": "Womens wear",
+        "price": "$499",
+        "image": "/images/female.gif",
+         "details": "Exclusive Offers from...."
+      },
+      {
+        "name": "Mens wear",
+        "price": "$299",
+        "image": "/images/menn.gif",
+         "details": "Exclusive Offers from...."
+      },
+      {
+        "name": "Foot wear",
+        "price": "$399",
+        "image": "/images/shoe.gif",
+        "details": "Exclusive Offers from...."
+      },
+      {
+        "name": "Smart Phones",
+        "price": "$1599",
+        "image": "/images/smart.gif",
+        "details": "Exclusive Offers from...."
+      },
+      {
+        "name": "Electronics",
+        "price": "$899",
+        "image": "/images/elec.gif",
+         "details": "Exclusive Offers from...."
+      },
+      {
+        "name": "Jewellery",
+        "price": "$299",
+        "image": "/images/ban.gif",
+       "details": "Exclusive Offers from...."
+      },
+      {
+        "name": "Cosmetics",
+        "price": "$199",
+        "image": "/images/cos.gif",
+        "details": "Exclusive Offers from...."
+      },
+      {
+        "name": "Kids wear",
+        "price": "$299",
+        "image": "/images/kida.gif",
+        "details": "Exclusive Offers from...."
+      },
+      {
+        "name": "Toys",
+        "price": "$199",
+       "image": "/images/toys.gif",
+        "details": "Exclusive Offers from...."
+      },
+      {
+        "name": "Home & Kitchen",
+        "price": "5499",
+       "image": "/images/hom.gif",
+        "details": "Exclusive Offers from...."
+      }
+    ]
+  }
+  

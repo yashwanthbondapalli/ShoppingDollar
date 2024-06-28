@@ -1,0 +1,57 @@
+{
+    "categories": [
+      {
+        "name": "HUNT THE HUNGER",
+        "subcategories": [
+          {
+            "name": "Fashion",
+            "subcategories": [
+              {
+                "name": "Men",
+                "subcategories": [
+                  { "name": "Ethnic Wear" },
+                  { "name": "Casual Wear" }
+                ]
+              },
+              {
+                "name": "Women",
+                "subcategories": [
+                  { "name": "Western Wear" },
+                  { "name": "Ethnic Wear" }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Toys",
+            "subcategories": [
+            ]
+          },
+          {
+            "name": "Grocery",
+            "subcategories": [
+            ]
+          },
+          {
+            "name": "Appilances",
+            "subcategories": [
+            ]
+          },
+          {
+            "name": "Cosmetics",
+            "subcategories": [
+            ]
+          },
+          {
+            "name": "Electronics",
+            "subcategories": [
+              { "name": "Mobiles" },
+              { "name": "Laptops" }
+            ]
+          }
+        ]
+      }
+      
+    ]
+  }
+  

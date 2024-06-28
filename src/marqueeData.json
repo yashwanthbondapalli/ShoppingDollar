@@ -1,0 +1,45 @@
+[
+    {
+      "image": "/images/shoe.gif",
+      "description": "Puma"
+    },
+    {
+        "image": "/images/female.gif",
+        "description": "Zara"
+      },
+      {
+        "image": "/images/nik.gif",
+        "description": "Nike"
+      },
+      {
+        "image": "/images/menn.gif",
+        "description": "Musfti"
+      },
+      {
+        "image": "/images/elec.gif",
+        "description": "Louis philippe"
+      },
+    {
+      "image": "/images/kida.gif",
+      "description": "BIBA"
+    },
+    {
+        "image": "/images/smart.gif",
+        "description": "Levis"
+      },
+      {
+        "image": "/images/toys.gif",
+        "description": "Gucci"
+      },
+      {
+        "image": "/images/ban.gif",
+        "description": "Louis Vuitton"
+      }
+      ,
+      {
+        "image": "/images/cos.gif",
+        "description": "Versace"
+      }
+    
+  ]
+  
